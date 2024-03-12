@@ -51,7 +51,7 @@ body{scroll-behavior: smooth}
         width: auto;
         height: auto;
         bottom: 5px;
-        background-color: #fff;
+        background-color: transparent;
         padding: 0;
         color: #96999A
     }
