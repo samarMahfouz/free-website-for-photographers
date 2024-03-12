@@ -50,7 +50,7 @@ body{scroll-behavior: smooth}
     .hero-section .scroll{
         width: auto;
         height: auto;
-        bottom: 16px;
+        bottom: 5px;
         background-color: #fff;
         padding: 0;
         color: #96999A
